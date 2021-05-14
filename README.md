@@ -1,1 +1,0 @@
-# mertcihangiroglu.github.io
