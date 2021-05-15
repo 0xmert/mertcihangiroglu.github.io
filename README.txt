@@ -1,3 +1,7 @@
+
+In this website, I have used a ready template and changed some parts of the template according to my needs and preference. Below is the read me file of the original creators and for copyright issues I am leaving it as it is.
+
+
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
