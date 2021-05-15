@@ -25,6 +25,41 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  */
  
+ table {
+  width: 80%;
+  font-family: YU Gothic UI Light, Georgia, sans-serif;
+}
+
+table, th{
+  margin: 0 auto;
+  border-spacing: 1px;
+  padding: 10px;
+}
+
+th {
+  border-top: 1px solid black;
+  border-bottom: 4px solid black;
+}
+
+.even {
+  background-color: #efefef;
+}
+td {
+  padding: 10px;
+}
+
+th:hover, td:hover {
+  background-color: #43a005;
+  
+}
+
+h1 {
+  text-align: center;
+  font-family: YU Gothic UI Light, Georgia, sans-serif;
+}
+
+
+ 
  .container_2 {
   position: relative;
   overflow: hidden;
